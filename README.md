@@ -1,6 +1,6 @@
-# Introduction 🙌
+# Hey guys
 
-Hey guys, I'm John. Expertise in Frontend and mobile application. 
+🐹 I'm John. Expertise in Frontend and mobile application. 
 
 - [x] HTML, CSS
 - [x] JavaScript
