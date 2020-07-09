@@ -1,4 +1,14 @@
-### Hi there 👋
+# Introduction 🙌
+
+Hey guys, I'm John. Expertise in Frontend and mobile application. 
+
+- [x] HTML, CSS
+- [x] JavaScript
+- [x] ReactJS, React Native
+- [ ] GraphQL
+- [ ] Go
+
+📬 yikok.yong@gmail.com
 
 <!--
 **yk-yong/yk-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
