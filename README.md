@@ -1,14 +1,22 @@
 # Hey guys
 
-🐹 I'm John. Expertise in Frontend and mobile application. 
+<p align='center'>I'm John, Senior frontend developer. Focus on ReactJS and React Native</p>
+<p align='center'>:malaysia:</p>
+<p align='center'><strong>Passionate in automation</strong></p>
 
 - [x] HTML, CSS
 - [x] JavaScript
 - [x] ReactJS, React Native
-- [ ] GraphQL
-- [ ] Go
+- [x] Automated mobile application deployment
 
-📬 yikok.yong@gmail.com
+## I'm currently learning
+
++ [ ] GraphQL
++ [ ] Flutter
+
+## My channel
+
+📬  - Reach me out at [yikok.yong@gmail.com](mailto:yikok.yong@gmail.com)
 
 <!--
 **yk-yong/yk-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
