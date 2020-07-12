@@ -1,13 +1,25 @@
 # Hey guys
 
-<p align='center'>I'm John, Senior frontend developer. Focus on ReactJS and React Native</p>
-<p align='center'>:malaysia:</p>
-<p align='center'><strong>Passionate in automation</strong></p>
+```javascript
 
-- [x] HTML, CSS
-- [x] JavaScript
-- [x] ReactJS, React Native
-- [x] Automated mobile application deployment
+export default {
+  name: "Yik Kok (John)",
+  country: "Malaysia",
+  email: "yikok.yong@gmail.com",
+  yearsOfExperience: 3,
+  skills: {
+    language: [ "JavaScript", "PHP", "HTML", "CSS", "Java", "Objective-C", "Kotlin", "Swift" ],
+    frontend: {
+      libraries: [ "JQuery", "ReactJS", "NextJS", "GatsbyJS", "React-Native" ],
+      css: [ "Bootstrap", "Material UI" ],
+    },
+    cicd: [ "Github Actions", "Bitrise" ],
+    test: [ "jest", "cypress", "react-native-detox" ],
+    tools: [ "git", "VS Code", "terminal", "YouTube Music" ],
+  }
+}
+
+```
 
 ## I'm currently learning
 
@@ -17,6 +29,8 @@
 ## My channel
 
 📬  - Reach me out at [yikok.yong@gmail.com](mailto:yikok.yong@gmail.com)
+
+- Fun fact: I like backend more than frontend.
 
 <!--
 **yk-yong/yk-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
