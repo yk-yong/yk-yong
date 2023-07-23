@@ -1,36 +1,10 @@
 # Hey guys
 
-```javascript
+I’m currently working as React Native developer who currently working on Smart TV, iOS &amp; Android application.
 
-export default {
-  name: "Yik Kok (John)",
-  country: "Malaysia",
-  email: "yikok.yong@gmail.com",
-  yearsOfExperience: 3,
-  skills: {
-    language: [ "JavaScript", "PHP", "HTML", "CSS", "Java", "Objective-C", "Kotlin", "Swift" ],
-    frontend: {
-      libraries: [ "JQuery", "ReactJS", "NextJS", "GatsbyJS", "React-Native" ],
-      css: [ "Bootstrap", "Material UI" ],
-    },
-    cicd: [ "Github Actions", "Bitrise" ],
-    test: [ "jest", "cypress", "react-native-detox" ],
-    tools: [ "git", "VS Code", "terminal", "YouTube Music" ],
-  }
-}
+Expertise in TypeScript, JavaScript, HTML &amp; CSS.
 
-```
-
-## I'm currently learning
-
-+ [ ] GraphQL
-+ [ ] Flutter
-
-## My channel
-
-📬  - Reach me out at [yikok.yong@gmail.com](mailto:yikok.yong@gmail.com)
-
-- Fun fact: I like backend more than frontend.
+Reach out to me at [Email](mailto:yikok.yong@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yikkok-yong/)
 
 <!--
 **yk-yong/yk-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
