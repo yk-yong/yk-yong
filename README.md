@@ -1,3 +1,5 @@
+![image](IMG_7387.jpeg)
+
 # 👋 Hi, I'm John Yk
 
 I'm a passionate fullstack developer with hands-on experience building Smart TV, iOS, and Android applications, CMS Portal and etc.
