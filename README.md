@@ -1,10 +1,24 @@
-# Hey guys
+# 👋 Hi, I'm Yikok Yong
 
-I’m currently working as React Native developer who currently working on Smart TV, iOS &amp; Android application.
+I'm a passionate fullstack developer with hands-on experience building Smart TV, iOS, and Android applications, CMS Portal and etc.
 
-Expertise in TypeScript, JavaScript, HTML &amp; CSS.
+## 🚀 About Me
+- 💼 Currently working as a fullstack developer
+- 📱 Experienced in cross-platform mobile, Smart TV, and web app development
+- 🌏 Based in Malaysia
 
-Reach out to me at [Email](mailto:yikok.yong@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yikkok-yong/)
+## 🛠️ Skillsets
+- **Languages:** TypeScript, JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React Native, React, Redux, Styled Components
+- **Platforms:** Smart TV (Tizen, webOS), iOS, Android, Web
+- **Tools:** Git, VS Code, REST APIs
+
+## 📫 Contact
+- Email: [yikok.yong@gmail.com](mailto:yikok.yong@gmail.com)
+- LinkedIn: [linkedin.com/in/yikkok-yong](https://www.linkedin.com/in/yk-yong)
+- Website: [john-yk](https://www.john-yk.com)
+
+---
 
 <!--
 **yk-yong/yk-yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
