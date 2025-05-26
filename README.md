@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yikok Yong
+# 👋 Hi, I'm John Yk
 
 I'm a passionate fullstack developer with hands-on experience building Smart TV, iOS, and Android applications, CMS Portal and etc.
 
