@@ -17,7 +17,7 @@ Today, I am an Independent Forward Deployed Software Engineer. I help businesses
 If you have a complex problem that needs a builder, let’s connect.
 
 ## 🚀 About Me
-- 💼 Currently working as a fullstack developer
+- 💼 An Independent Forward Deployed Software Engineer (_FDSE_)
 - 📱 Experienced in cross-platform mobile, Smart TV, and web app development
 - 🌏 Based in Malaysia
 
